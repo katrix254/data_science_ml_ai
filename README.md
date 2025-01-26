@@ -46,7 +46,7 @@ Stage and commit your work:
 git add .
 git commit -m "Add assignment submission"
 ```
-6. ** Push Changes to Your Fork**
+6. ## Push Changes to Your Fork
 Push your changes to your forked repository:
 ```bash
 git push origin main
