@@ -32,7 +32,7 @@ Students are encouraged to submit their assignments using **Forks and Pull Reque
 2. **Clone the Forked Repository**  
    Clone your forked repository to your local machine using HTTPS:  
    ```bash
-   git clone https://github.com/<your_username>/data_science_ml_ai.git
+   git clone https://github.com/<student_username>/data_science_ml_ai.git
 
 3. **Add Your Assignment**
 Navigate to the appropriate folder under assignments/ (e.g., assignments/assignment_1) and add your completed assignment file.
