@@ -45,20 +45,18 @@ Stage and commit your work:
 ```bash
 git add .
 git commit -m "Add assignment submission"
-
-
+```
 6. ** Push Changes to Your Fork**
 Push your changes to your forked repository:
 ```bash
 git push origin main
-
+```
 7. **Create a Pull Request**
 On GitHub, navigate to your forked repository and click New Pull Request to merge your changes into the main repository.
 
-
 ## Contributing
 To contribute to this repository or submit assignments, refer to the  `CONTRIBUTING.md` file.
-```bash
+
 This `README.md` file is concise, well-structured, and adheres to GitHub community standards. Let me know if you'd like to add anything else!
 
 
