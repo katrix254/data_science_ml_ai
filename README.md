@@ -10,37 +10,50 @@ Welcome to the official repository for  the Data science Department at Unde Acad
 ---
 
 ## Repository Structure
-- `class_notes/`: Lecture notes organized by topics.
-- `assignments/`: Assignment instructions and starter templates .
-- `submissions/`: Folder for students to submit their work.
-- `projects/`: Advanced capstone project.
-- `README.md/`: Repository overview and guidelines.
-
+```plaintext
+├── class_notes/        # Lecture notes organized by topics
+├── assignments/        # Assignment instructions and starter templates
+├── submissions/        # Folder for assignment submissions
+│   └── assignment_1/   # Submission path for Assignment 1
+├── projects/           # Advanced capstone projects
+└── README.md           # Repository overview and guidelines
+```
 ## How to Access Lecture Notes
 1. Navigate to the `class_notes/` folder.
 2. Select the topic you are interested in.
 3. View or download the `.ipynb` file or other files directly through GitHub.
 
 ## Assignment Submission Guidelines
+All students must submit assignments to the designated folder for each assignment. For Assignment 1, use the following submission path:
+
 ### **Submit via Fork and Pull Request (Recommended)**  
-Students are encouraged to submit their assignments using **Forks and Pull Requests** for a seamless process.  
+Students are encouraged to submit their assignments using **Forks and Pull Requests** for a seamless process.
+```plaintext
+https://github.com/Unde-Academy/data_science_ml_ai/tree/main/submissions/assignment_1.
+```
 
 #### Steps for Students:
 1. **Fork the Repository**  
    Click the **Fork** button on the top right corner of this GitHub repository page.
 
-2. **Clone the Forked Repository**  
+## Submit via Fork and Pull Request (Recommended)
+2. **Clone the Forked Repository **  
    Clone your forked repository to your local machine using HTTPS:  
    ```bash
    git clone https://github.com/<student_username>/data_science_ml_ai.git
 
 3. **Add Your Assignment**
-Navigate to the appropriate folder under assignments/ (e.g., assignments/assignment_1) and add your completed assignment file.
+Navigate to the correct folder for Assignment 1:
+```plaintext
+submissions/assignment_1/
+```
+Add your completed assignment file.
 
-4. **Follow Naming Conventions**
+
+5. **Follow Naming Conventions**
 Save your assignment file with the naming format: your_name.ipynb or your_name.py.
 
-5. **Commit Your Changes**
+6. **Commit Your Changes**
 Stage and commit your work:
 ```bash
 git add .
