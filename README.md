@@ -92,8 +92,10 @@ Open a terminal and type:
 ```bash
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
+- change the  "your_email@example.com" and enter your email address linked to the git hub account
 - Press Enter to save the key to the default location.
 - Optionally, add a passphrase.
+  
   ## 2.  Add the SSH Key to Your GitHub Account:
 Copy the key to your clipboard:
 ```bash
