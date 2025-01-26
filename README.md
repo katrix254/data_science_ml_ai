@@ -36,7 +36,6 @@ https://github.com/Unde-Academy/data_science_ml_ai/tree/main/submissions/assignm
 1. **Fork the Repository**  
    Click the **Fork** button on the top right corner of this GitHub repository page.
 
-## Submit via Fork and Pull Request (Recommended)
 2. **Clone the Forked Repository **  
    Clone your forked repository to your local machine using HTTPS:  
    ```bash
