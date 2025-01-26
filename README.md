@@ -38,7 +38,7 @@ Students are encouraged to submit their assignments using **Forks and Pull Reque
 Navigate to the appropriate folder under assignments/ (e.g., assignments/assignment_1) and add your completed assignment file.
 
 4. **Follow Naming Conventions**
-Save your assignment file with the naming format: your_name.ipynb or you_name.py.
+Save your assignment file with the naming format: your_name.ipynb or your_name.py.
 
 5. **Commit Your Changes**
 Stage and commit your work:
