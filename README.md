@@ -57,6 +57,5 @@ On GitHub, navigate to your forked repository and click New Pull Request to merg
 ## Contributing
 To contribute to this repository or submit assignments, refer to the  `CONTRIBUTING.md` file.
 
-This `README.md` file is concise, well-structured, and adheres to GitHub community standards. Let me know if you'd like to add anything else!
 
 
